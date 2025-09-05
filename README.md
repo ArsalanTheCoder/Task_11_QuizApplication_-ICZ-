@@ -30,7 +30,6 @@ A Flutter-based Quiz Application with **two panels**:
 ## 🏁 Getting Started  
 
 
-
 Follow these steps to run the app locally:  
 
 ### Prerequisites  
